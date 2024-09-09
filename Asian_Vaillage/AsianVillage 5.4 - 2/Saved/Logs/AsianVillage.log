@@ -3199,3 +3199,21 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.09.09-01.34.21:424][564]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
 [2024.09.09-01.34.21:424][564]LogPython: Display: Object '/Engine/PythonTypes.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
 [2024.09.09-01.34.21:424][564]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.09.09-01.34.22:382][564]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.09.09-01.34.22:402][564]LogExit: Editor shut down
+[2024.09.09-01.34.22:403][564]LogExit: Transaction tracking system shut down
+[2024.09.09-01.34.22:487][564]LogExit: Object subsystem successfully closed.
+[2024.09.09-01.34.22:522][564]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.09.09-01.34.23:176][564]MemoryProfiler: Shutdown
+[2024.09.09-01.34.23:176][564]NetworkingProfiler: Shutdown
+[2024.09.09-01.34.23:176][564]LoadingProfiler: Shutdown
+[2024.09.09-01.34.23:176][564]TimingProfiler: Shutdown
+[2024.09.09-01.34.23:375][564]LogOpenImageDenoise: OIDN shutting down
+[2024.09.09-01.34.23:835][564]RenderDocPlugin: plugin has been unloaded.
+[2024.09.09-01.34.23:835][564]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2024.09.09-01.34.23:855][564]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.09.09-01.34.23:855][564]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5D7E8762-47C0-4E19-C2A8-B8AAA4F1D0F8%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.3-34507850%2B%2B%2BUE5%2BRelease-5.4&UserID=9620d02049bf2a5e4f2c849c030540e4%7C41213787124a4c94b54e92cb66fb76d6%7C7eab8aed-35a7-4ee6-8e63-5cab0cc6131b&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2024.09.09-01.34.23:864][564]LogPakFile: Destroying PakPlatformFile
+[2024.09.09-01.34.23:982][564]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.09.09-01.34.24:011][564]LogExit: Exiting.
+[2024.09.09-01.34.24:034][564]Log file closed, 09/08/24 19:34:24
